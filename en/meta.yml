@@ -1,11 +1,9 @@
-title: scratch3-set-block-input-colour-with-eyedropper
+title: Set colour input with eyedropper
 hero_image: images/banner.png
-description: scratch3-set-block-input-colour-with-eyedropper description
+description: Set the colour input of Sensing and Pen blocks with the eyedropper.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Set colour input with eyedropper
