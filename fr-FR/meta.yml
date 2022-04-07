@@ -1,11 +1,11 @@
 ---
-title: Set colour input with eyedropper
+title: Définir l'entrée de couleur avec la pipette
 hero_image: images/banner.png
-description: Set the colour input of Sensing and Pen blocks with the eyedropper.
+description: Définir l'entrée de couleur des blocs Capteurs et stylo avec la pipette.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Set colour input with eyedropper
+    title: Définir l'entrée de couleur avec la pipette
