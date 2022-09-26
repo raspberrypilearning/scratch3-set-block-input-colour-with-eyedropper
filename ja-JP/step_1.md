@@ -1,4 +1,4 @@
-Some blocks in Scratch allow you to choose a colour.
+Scratchの一部のブロックでは、色を選択できます。
 
 ```blocks3
 <touching color (#20f73b) ?>
@@ -8,15 +8,15 @@ Some blocks in Scratch allow you to choose a colour.
 set pen color to (#e50820)
 ```
 
-You can choose a colour to match a colour that appears on the Stage.
+ステージに表示されている色と一致する色を選択できます。
 
-Click on the colour input to open the colour picker and then click on the eyedropper at the bottom.
+カラー入力をクリックしてカラーピッカーを開き、下部にあるスポイトをクリックします。
 
 ![](images/eye-dropper-tool.png)
 
-Move the mouse pointer over to the Stage and move around until you have selected the colour you want and then click (or tap) to select the colour.
+マウスポインターをステージに移動し、目的の色を選択するまで動かしてから、クリック（またはタップ）して色を選択します。
 
 ![](images/eye-dropper-stage.png)
 
-The colour in the block input will change to match the colour you chose. Click in the Code area to close the colour picker.
+ブロック入力の色が選択した色に一致するように変更されます。 コード領域をクリックして、カラーピッカーを閉じます。
 
