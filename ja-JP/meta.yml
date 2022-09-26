@@ -1,11 +1,11 @@
 ---
-title: Set colour input with eyedropper
+title: スポイトでカラー入力を設定する
 hero_image: images/banner.png
-description: Set the colour input of Sensing and Pen blocks with the eyedropper.
+description: スポイトで、調べるブロックとペンブロックのカラー入力を設定します。
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Set colour input with eyedropper
+    title: スポイトでカラー入力を設定する
