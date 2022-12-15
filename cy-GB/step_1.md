@@ -1,4 +1,4 @@
-Some blocks in Scratch allow you to choose a colour.
+Mae rhai blociau yn Scratch yn caniatáu i ti ddewis lliw.
 
 ```blocks3
 <touching color (#20f73b) ?>
@@ -8,15 +8,15 @@ Some blocks in Scratch allow you to choose a colour.
 set pen color to (#e50820)
 ```
 
-You can choose a colour to match a colour that appears on the Stage.
+Galli di ddewis lliw i gyd-fynd â lliw sy'n ymddangos ar y Llwyfan.
 
-Click on the colour input to open the colour picker and then click on the eyedropper at the bottom.
+Clicia ar y mewnbwn lliw i agor y dewiswr lliwiau ac wedyn clicia ar y diferydd llygad ar y gwaelod.
 
 ![](images/eye-dropper-tool.png)
 
-Move the mouse pointer over to the Stage and move around until you have selected the colour you want and then click (or tap) to select the colour.
+Symuda bwyntydd y llygoden draw i'r Llwyfan a symud o gwmpas nes dy fod ti wedi dewis y lliw rwyt ti ei eisiau ac yna clicio (neu daro) i ddewis y lliw.
 
 ![](images/eye-dropper-stage.png)
 
-The colour in the block input will change to match the colour you chose. Click in the Code area to close the colour picker.
+Bydd y lliw yn y mewnbwn bloc yn newid i gyd-fynd â'r lliw a ddewisaist. Clicia yn ardal y Cod i gau'r dewiswr lliwiau.
 
