@@ -1,11 +1,11 @@
 ---
-title: Set colour input with eyedropper
+title: Ustaw kolor za pomocą próbnika koloru
 hero_image: images/banner.png
-description: Set the colour input of Sensing and Pen blocks with the eyedropper.
+description: Ustaw kolor bloków Sensing i Pen za pomocą próbnika koloru.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Set colour input with eyedropper
+    title: Ustaw kolor za pomocą próbnika koloru
