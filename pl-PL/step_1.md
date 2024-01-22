@@ -1,4 +1,4 @@
-Some blocks in Scratch allow you to choose a colour.
+Niektóre bloki w Scratchu pozwalają wybrać kolor.
 
 ```blocks3
 <touching color (#20f73b) ?>
@@ -8,15 +8,15 @@ Some blocks in Scratch allow you to choose a colour.
 set pen color to (#e50820)
 ```
 
-You can choose a colour to match a colour that appears on the Stage.
+Możesz wybrać kolor pasujący do tła sceny.
 
-Click on the colour input to open the colour picker and then click on the eyedropper at the bottom.
+Kliknij na obszar koloru, aby otworzyć ustawienia koloru, a następnie kliknij ikonę próbnika koloru na dole.
 
 ![](images/eye-dropper-tool.png)
 
-Move the mouse pointer over to the Stage and move around until you have selected the colour you want and then click (or tap) to select the colour.
+Przesuń wskaźnik myszy na scenę i poruszaj się, aż wybierzesz żądany kolor, a następnie kliknij, aby zatwierdzić wybór koloru.
 
 ![](images/eye-dropper-stage.png)
 
-The colour in the block input will change to match the colour you chose. Click in the Code area to close the colour picker.
+Obszar koloru zawarty w bloku zmieni się na wybrany kolor. Kliknij obszar kodu, aby zamknąć okno wyboru koloru.
 
