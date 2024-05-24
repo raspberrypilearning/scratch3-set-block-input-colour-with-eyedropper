@@ -1,11 +1,11 @@
 ---
-title: Set colour input with eyedropper
+title: Definir entrada de cores com conta-gotas
 hero_image: images/banner.png
-description: Set the colour input of Sensing and Pen blocks with the eyedropper.
+description: Defina a entrada de cores dos blocos Sensor e Caneta com o conta-gotas.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Set colour input with eyedropper
+    title: Definir entrada de cores com conta-gotas
